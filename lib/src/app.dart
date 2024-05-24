@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget{
         backgroundColor:Color.fromARGB(205, 15, 107, 183),
         title: Center(
           child: Text("Ask Me Anything", style: TextStyle(
-            fontSize:20.0 ,
+            fontSize:25.0 ,
             fontWeight:FontWeight.bold,
             color: Colors.white
           ),
