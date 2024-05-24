@@ -9,7 +9,7 @@ class _appState extends State<Magic> {
   int changer = 1;
   Widget build(BuildContext context){
     return Scaffold(
-      backgroundColor: Color.fromARGB(234, 48, 153, 239),
+      backgroundColor: Color.fromARGB(234, 38, 149, 239),
       body:Center(
         child: Row(
           children:  <Widget> [
